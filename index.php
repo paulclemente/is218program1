@@ -47,6 +47,8 @@
 	/* this is how you instantiates (take the blueprint(class) and turn it into an object)a new class object*/
 	$obj = new myclass;
 	print_r($obj);
+
+echo ' this is the newest' ; 
 ?>
 
 
